@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\filip\source\repos\Project5\Project5\vector.h(102,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\filip\source\repos\Project5\Project5\vector.h(103,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(113,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(113,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(112,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(112,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(117,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(117,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(122,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(122,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(122,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(122,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(125,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\filip\source\repos\Project5\Project5\main.cpp(125,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project5.vcxproj -> C:\Users\filip\source\repos\Project5\x64\Debug\Project5.exe
